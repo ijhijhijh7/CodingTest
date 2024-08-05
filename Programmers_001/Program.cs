@@ -1,9 +1,9 @@
 ﻿namespace Programmers_001
 {
     // <summary>
-    // 2024년 8월 12일
-    // 문제 :
-    // URL :
+    // 2024년 8월 5일
+    // 문제 : 가장 가까운 같은 글자(level 1)
+    // URL : https://school.programmers.co.kr/learn/courses/30/lessons/142086?language=csharp
     // <summary>
     internal class Program
     {
