@@ -1,7 +1,7 @@
 ﻿namespace Programmers_006
 {
     // <summary>
-    // 2024년 8월 7일
+    // 2024년 8월 9일
     // 문제 : 가장 큰수 찾기(level 0)
     // URL : https://school.programmers.co.kr/learn/courses/30/lessons/120899
     // <summary>
